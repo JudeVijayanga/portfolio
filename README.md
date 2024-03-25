@@ -14,7 +14,7 @@
 - Dust and molecular gas properties of a large sample of main-sequence galaxies at 3 < z < 4.
 - Supervisor:  Professor Paolo Cassata.
 
-** Internship at the International School for Advanced Studies(SISSA), Italy. (_June 2021 - September 2021_
+**Internship at the International School for Advanced Studies(SISSA), Italy. (_June 2021 - September 2021_)**
 - Project title: A comprehensive X-ray view of the active nucleus in NGC 4258.
 
 
